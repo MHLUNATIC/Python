@@ -1,0 +1,15 @@
+Tue, 29 May 2018 16:24:50 loggingģ��.py[line:7] DEBUG debug message
+Tue, 29 May 2018 16:24:50 loggingģ��.py[line:8] INFO info message
+Tue, 29 May 2018 16:24:50 loggingģ��.py[line:9] WARNING warning message
+Tue, 29 May 2018 16:24:50 loggingģ��.py[line:10] ERROR error message
+Tue, 29 May 2018 16:24:50 loggingģ��.py[line:11] CRITICAL critical message
+2018-05-29 16:46:49,374 - root - DEBUG - logger debug message
+2018-05-29 16:46:49,374 - root - INFO - logger info message
+2018-05-29 16:46:49,375 - root - WARNING - logger warning message
+2018-05-29 16:46:49,535 - root - ERROR - logger error message
+2018-05-29 16:46:49,535 - root - CRITICAL - logger critical message
+2018-05-29 16:59:13,707 - root - DEBUG - logger debug message
+2018-05-29 16:59:13,708 - root - INFO - logger info message
+2018-05-29 16:59:13,708 - root - WARNING - logger warning message
+2018-05-29 16:59:13,708 - root - ERROR - logger error message
+2018-05-29 16:59:13,708 - root - CRITICAL - logger critical message
